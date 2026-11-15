@@ -1,0 +1,23 @@
+{
+  "name": "@macle-community/commander",
+  "version": "0.0.13",
+  "description": "Macle common utils",
+  "author": "Macle",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "commander"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {}
+}
